@@ -1,0 +1,7 @@
+coverage
+Faker
+greenlet
+python-dateutil
+six
+SQLAlchemy
+typing_extensions
