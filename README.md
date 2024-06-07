@@ -1,0 +1,1 @@
+# ospo-test-sonarcloud
